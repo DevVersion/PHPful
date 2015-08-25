@@ -1,0 +1,22 @@
+{
+	"name": "devversion/phpful",
+	"description": "PHP Restful Micro Framework",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Paul Gschwendtner",
+			"email": "paulgschwendtner@me.com"
+		}
+	],
+    "require": {
+        "php": ">=5.5.0"
+    },
+	"require-dev": {
+        "phpunit/phpunit": "^4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "PHPful\\": "PHPful"
+        }
+    }
+}
