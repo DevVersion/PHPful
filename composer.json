@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "PHPful\\": "PHPful"
+            "PHPful\\": "lib"
         }
     }
 }
